@@ -1,2 +1,4 @@
 # hello-world
-Just a first dummy repository
+
+Just playing with a first dummy repository, I hope I am not too rusty for coding...
+
